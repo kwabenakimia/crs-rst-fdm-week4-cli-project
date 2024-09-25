@@ -1,0 +1,6 @@
+[package]
+name = "crs_rst_fdm_week4_cli_project"
+version = "0.1.5"
+edition = "2021"
+
+[dependencies]
